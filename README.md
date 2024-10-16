@@ -34,10 +34,10 @@ Our **Dapp Application** is designed to leverage the power of blockchain to faci
 It's a decentralized, open-source application that ensures transparency, security, and trust. Whether you want to trade cryptocurrency or mint NFTs, our Dapp offers all the functionalities you need! 
 
 ### Bitcoin Network 🌐
-https://media.giphy.com/media/WT9wi81vtEhqt17SE4/giphy.gif?cid=790b7611ye03im1w35d6q8sds81slwr5915ejmi9wgi5j9wg&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![BTC GIF](https://media.giphy.com/media/HhwD6cYPpZ16QWLYpC/giphy.gif)
 
 ### Ethereum Blockchain 🔥
-https://media.giphy.com/media/KBqoRmb7PZYSdkEir8/giphy.gif?cid=790b7611a2r0volahu8ntgavm3ezh0ms4b4f2spzgnadzagw&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![Ethereum GIF](https://media.giphy.com/media/KI4wu7rEonqfUZdB1S/giphy.gif)
 
 ### NFTs Marketplace 🎨
 ![NFT GIF](https://media.giphy.com/media/3ohhwxsXvPntQAZ3h2/giphy.gif)
