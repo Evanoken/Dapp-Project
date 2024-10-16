@@ -161,5 +161,5 @@ Thank you for checking out the **Dapp Application**! 🎉✨🚀 We hope you enj
 
 ---
 
-*Note*: Replace the `btc-gif-url-here`, `ethereum-gif-url-here`, and `nft-gif-url-here` with actual links to your GIFs representing Bitcoin, Ethereum, and NFTs.
+*Note*:
 
